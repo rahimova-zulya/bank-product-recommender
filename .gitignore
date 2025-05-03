@@ -1,0 +1,25 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Виртуальная среда
+venv/
+env/
+.venv/
+.env/
+
+# Модели и данные
+*.h5
+*.pkl
+*.csv
+*.tsv
+*.sqlite
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.bak
