@@ -16,7 +16,7 @@ The goal of this project is to create a simple recommendation system that predic
 This project uses the [Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/bank+marketing) from UCI, which contains information about customer demographics and previous bank marketing campaigns.
 
 ###  Model:
-We train a **RandomForestClassifier** to predict whether a customer will subscribe to a banking product, such as a deposit. The model is evaluated using **ROC-AUC** and **classification metrics**.
+I train a **RandomForestClassifier** to predict whether a customer will subscribe to a banking product, such as a deposit. The model is evaluated using **ROC-AUC** and **classification metrics**.
 
 ###  Key Features:
 - User demographic data (age, job, marital status, etc.)
